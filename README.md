@@ -1,7 +1,7 @@
 ## 🚀 **Project: Domain-Specific Chatbot using Encoder–Decoder Architecture**
-💬 Excited to share my latest Deep Learning project — a **Domain-Specific Chatbot** built using **Encoder–Decoder Architecture** with advanced NLP techniques!------
+💬 Excited to share my latest Deep Learning project — a **Domain-Specific Chatbot** built using **Encoder–Decoder Architecture** with advanced NLP techniques!
 
-=====
+-----
 
 ### 🧠 **Project Overview**
 
