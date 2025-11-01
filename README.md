@@ -12,16 +12,11 @@ This project focuses on developing an intelligent chatbot that can understand an
 ### ⚙️ **Technical Approach**
 
 * Implemented a **Sequence-to-Sequence (Seq2Seq)** model using **Encoder–Decoder architecture** with **LSTM** layers.
-* 
 * **Encoder** processes the input sentence and converts it into a fixed-length context vector.
-* 
 * **Decoder** uses this context to generate relevant and coherent responses.
-* 
 * Preprocessed data by **tokenizing**, **padding sequences**, and **building a custom vocabulary** for domain-specific language.
-* 
 * Trained the model using **categorical cross-entropy loss** and **Adam optimizer** for efficient convergence.
-*
-* * Implemented **attention mechanisms** to improve response quality and contextual understanding.
+* Implemented **attention mechanisms** to improve response quality and contextual understanding.
 
  -------
  
